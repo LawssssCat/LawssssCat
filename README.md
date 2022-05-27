@@ -3,9 +3,9 @@ Hi 👋 Welcome to my profile
 
 + :earth_asia: I'm based in China
 + :brain: I'm learning Machine Learning
-+ :seedling: My early notes are recorded on [CSDN](https://blog.csdn.net/LawssssCat)
-+ :four_leaf_clover: My recent notes will be recorded on [GitHub](https://lawsssscat.github.io/learn-index/) 
-+ :alien: [This](https://lawsssscat.github.io/) is my blog, toolbox and Experimental site
++ :seedling: My early notes are recorded on [ [CSDN](https://blog.csdn.net/LawssssCat) ]
++ :four_leaf_clover: My recent notes will be recorded on [ [GitHub](https://lawsssscat.github.io/learn-index/) ]
++ :alien: [ [This](https://lawsssscat.github.io/) ] is my blog, toolbox and Experimental site
 
 ### Skills
 
