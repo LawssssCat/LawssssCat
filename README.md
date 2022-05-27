@@ -53,7 +53,13 @@ Hi 👋 Welcome to my profile
 
 ### My GitHub Stats
 
-<table>
+<style>
+#my_github_stats_tab td {
+  border: hidden;
+}
+</style>
+
+<table id='my_github_stats_tab'>
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawsssscat&show_icons=true&hide=&count_private=true&title_color=33ffed&text_color=ffffff&icon_color=33ffed&bg_color=1c1917&hide_border=false&show_icons=true" alt="GitHub stats" />
@@ -66,7 +72,6 @@ Hi 👋 Welcome to my profile
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawsssscat&stroke=ffffff&background=1c1917&ring=33ffed&fire=red&currStreakNum=ffffff&currStreakLabel=33ffed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=" />
     </td>
-    <td></td>
   </tr>
   <tr>
     <td colspan='2'>
