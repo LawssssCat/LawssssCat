@@ -4,7 +4,8 @@
 </p>
 
 <h1 >Welcome To My GitHub Profile !
-</h1> 
+<img style='padding-left:10px;' src='https://komarev.com/ghpvc/?username=LawssssCat&style=flat-square'>
+<h1>
 
 <!-- logo search. 
 see https://simpleicons.org/  
