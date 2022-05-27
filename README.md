@@ -1,5 +1,10 @@
-<br><br>
-<h1 align='center'>Hello I'm Xianyi Luo</h1>
+
+<p align='center'>
+<img src="./assets/octo.gif" width='150'>
+</p>
+
+<h1 >Welcome To My GitHub Profile !
+</h1> 
 
 <!-- logo search. 
 see https://simpleicons.org/  
@@ -24,7 +29,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 + :four_leaf_clover: My recent notes will be recorded on [ [GitHub](https://lawsssscat.github.io/learn-index/) ]
 + :alien: [ [This](https://lawsssscat.github.io/) ] is my blog, toolbox and Experimental site
 
-### My Teck Stack
+## My Teck Stack
 
 <!-- badge search. see https://github.com/Ileriayo/markdown-badges -->
 
@@ -51,7 +56,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### My GitHub Stats
+## My GitHub Stats
 
 <p align='center'>
 <a href="https://www.github.com/lawsssscat" target="_blank" rel="noreferrer">
@@ -84,3 +89,5 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 
 <!-- todo blog post. see https://github.com/gautamkrishnar/blog-post-workflow-->
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
