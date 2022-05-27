@@ -1,5 +1,22 @@
-Hello I'm Xianyi Luo
-==============================
+<br><br>
+<h1 align='center'>Hello I'm Xianyi Luo</h1>
+
+<!-- logo search. 
+see https://simpleicons.org/  
+see https://www.jsdelivr.com/package/npm/simple-icons
+see https://github.com/simple-icons/simple-icons#cdn-usage -->
+
+<p align="right">
+<a href="https://www.leetcode.com/alan2020" target="blank">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/leetcode.svg" />
+<a href="https://www.github.com/lawsssscat" target="blank">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" />
+<a href="https://stackoverflow.com/users/19214602" target="blank">
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" />
+</a>
+</p>
+
+<!-- emoji search. see https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 + :earth_asia: I'm based in China
 + :brain: I'm learning Machine Learning
@@ -9,10 +26,11 @@ Hello I'm Xianyi Luo
 
 ### My Teck Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+<!-- badge search. see https://github.com/Ileriayo/markdown-badges -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
@@ -20,36 +38,22 @@ Hello I'm Xianyi Luo
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=000&color=%23FFCE5A)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-<p align="left">
-<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="36" height="36" alt="ruby" /></a>
-<a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" height="36" alt="oracle" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.redis.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" height="36" alt="redis" /></a>
-<a href="https://www.nginx.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="36" height="36" alt="nginx" /></a>
-<a href="https://www.docker.com/" target="_blank " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-
-</p>
-
-### My Socials
-
-<p align="left">
-<a href="https://www.leetcode.com/alan2020" target="blank"><img height="40" width="40" alt="alan2020" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  /></a>
-<a href="https://www.github.com/lawsssscat" target="_blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" /></a>
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### My GitHub Stats
 
+<p align='center'>
 <a href="https://www.github.com/lawsssscat" target="_blank" rel="noreferrer">
 <table style="border: hidden">
   <tr>
@@ -72,11 +76,11 @@ Hello I'm Xianyi Luo
   </tr>
 </table>
 </a>
+</p>
 
-<p align="left"> <a href="https:// /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lawsssscat" alt="lawsssscat" /></a > </p>
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=lawsssscat" alt="lawsssscat" /></a >
+</p>
 
-
-
-
-
+<!-- todo blog post. see https://github.com/gautamkrishnar/blog-post-workflow-->
 
