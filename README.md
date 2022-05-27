@@ -53,6 +53,7 @@ Hi 👋 Welcome to my profile
 
 ### My GitHub Stats
 
+<a href="https://www.github.com/lawsssscat" target="_blank" rel="noreferrer">
 <table style="border: hidden">
   <tr>
     <td>
@@ -73,7 +74,7 @@ Hi 👋 Welcome to my profile
     </td>
   </tr>
 </table>
-
+</a>
 
 
 
