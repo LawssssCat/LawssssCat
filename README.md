@@ -53,13 +53,7 @@ Hi 👋 Welcome to my profile
 
 ### My GitHub Stats
 
-<style>
-#my_github_stats_tab td {
-  border: hidden;
-}
-</style>
-
-<table id='my_github_stats_tab'>
+<table style="border: hidden">
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=lawsssscat&show_icons=true&hide=&count_private=true&title_color=33ffed&text_color=ffffff&icon_color=33ffed&bg_color=1c1917&hide_border=false&show_icons=true" alt="GitHub stats" />
