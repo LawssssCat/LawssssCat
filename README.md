@@ -1,26 +1,22 @@
-
-<p align='center'>
-<img src="./assets/octo.gif" width='150'>
-</p>
-
+<br>
+ <p align='center'><img src="./assets/octo.gif" width='150'></p>
+<br>
 <h1 >Welcome To My GitHub Profile !
 <img style='padding-left:10px;' src='https://komarev.com/ghpvc/?username=LawssssCat&style=flat-square'>
-<h1>
+<a href="https://www.leetcode.com/alan2020" target="blank">
+</h1>
+
 
 <!-- logo search. 
 see https://simpleicons.org/  
 see https://www.jsdelivr.com/package/npm/simple-icons
 see https://github.com/simple-icons/simple-icons#cdn-usage -->
 
-<p align="right">
-<a href="https://www.leetcode.com/alan2020" target="blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/leetcode.svg" />
+<img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/leetcode.svg" /></a>
 <a href="https://www.github.com/lawsssscat" target="blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" />
+<img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" /></a>
 <a href="https://stackoverflow.com/users/19214602" target="blank">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" />
-</a>
-</p>
+<img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" /></a>
 
 <!-- emoji search. see https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
