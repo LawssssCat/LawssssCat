@@ -30,6 +30,13 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 + :four_leaf_clover: My recent notes will be recorded on [ [GitHub](https://lawsssscat.github.io/learn-index/) ]
 + :alien: [ [This](https://lawsssscat.github.io/) ] is my blog, toolbox and Experimental site
 
+## My Latest Post
+
+<!-- todo blog post. see https://github.com/gautamkrishnar/blog-post-workflow-->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My Teck Stack
 
 <!-- badge search. see https://github.com/Ileriayo/markdown-badges -->
@@ -87,8 +94,3 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 <p align='center' >
 <img src="https://github-profile-trophy.vercel.app/?username=lawsssscat" alt="lawsssscat" width='100%' /></a >
 </p>
-
-<!-- todo blog post. see https://github.com/gautamkrishnar/blog-post-workflow-->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
