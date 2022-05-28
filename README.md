@@ -28,7 +28,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 + :brain: I'm learning Machine Learning
 + :seedling: My early notes are recorded on [ [CSDN](https://blog.csdn.net/LawssssCat) ]
 + :four_leaf_clover: My recent notes will be recorded on [ [GitHub](https://lawsssscat.github.io/learn-index/) ]
-+ :alien: [ [This](https://lawsssscat.github.io/blog/) ] is my blog, toolbox and Experimental site
++ :alien: [ [Here](https://lawsssscat.github.io/blog/) ] is my blog, toolbox and Experimental site
 
 ## My Teck Stack
 
