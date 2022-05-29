@@ -75,7 +75,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
       <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api?username=lawsssscat&show_icons=true&hide=&count_private=true&title_color=33ffed&text_color=ffffff&icon_color=33ffed&bg_color=1c1917&hide_border=false&show_icons=true" alt="GitHub stats" />
     </td>
     <td rowspan='2'>
-      <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsssscat&layout=!compact&title_color=33ffed&text_color=ffffff&icon_color=33ffed&langs_count=8&bg_color=1c1917&hide=TSQL&hide_border=false" />
+      <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsssscat&layout=!compact&title_color=33ffed&text_color=ffffff&icon_color=33ffed&langs_count=8&bg_color=1c1917&hide=TSQL,Markdown&hide_border=false" />
     </td>
   </tr>
   <tr>
