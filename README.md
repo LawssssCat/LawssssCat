@@ -1,7 +1,4 @@
-<br>
- <p align='center'><img src="./assets/octo.gif" width='150'></p>
-<br>
-<h1 >Welcome To My GitHub Profile !
+ <h1 >Welcome To My GitHub Profile !
 <img style='padding-left:10px;' src='https://komarev.com/ghpvc/?username=LawssssCat&style=flat-square'>
 <a href="https://www.leetcode.com/alan2020" target="blank">
 </h1>
@@ -14,7 +11,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 
 <img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/leetcode.svg" /></a>
 <a href="https://www.github.com/lawsssscat" target="blank">
-<img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" /></a>
+<img align='right' height="32" width="32" src="./assets/octo.gif" /></a>
 <a href="https://stackoverflow.com/users/19214602" target="blank">
 <img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" /></a>
 
