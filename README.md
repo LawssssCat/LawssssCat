@@ -11,7 +11,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 <a href="https://www.leetcode.com/alan2020" target="blank">
 <img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/leetcode.svg" /></a>
 <a href="https://www.github.com/lawsssscat" target="blank">
-<img align='right' height="32" width="32" src="./assets/octo.gif" /></a>
+<img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg" /></a>
 <a href="https://stackoverflow.com/users/19214602" target="blank">
 <img align='right' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/stackoverflow.svg" /></a>
 
