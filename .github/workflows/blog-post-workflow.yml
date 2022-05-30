@@ -17,5 +17,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://lawsssscat.github.io/blog/feed.xml"
+          feed_list: "https://lawsssscat.github.io/feed.xml"
           # template: $randomEmoji(💯,🔥,💫,🚀,🌮)
