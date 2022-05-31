@@ -25,7 +25,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 
 ## My Latest Post
 
-<!-- todo blog post. see https://github.com/gautamkrishnar/blog-post-workflow-->
+<!-- todo blog post. see https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
 - [emoji resources 😀](https://lawsssscat.github.io/docs/resource/emoji.html)
@@ -46,6 +46,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
