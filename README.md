@@ -28,11 +28,11 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 <!-- todo blog post. see https://github.com/gautamkrishnar/blog-post-workflow -->
 
 <!-- BLOG-POST-LIST:START -->
+- [整理Git命令 👍](https://lawsssscat.github.io/docs/git/Git-Command-put-in-order.html)
 - [emoji resources 😀](https://lawsssscat.github.io/docs/resource/emoji.html)
 - [Some Tips Jekyll Site You Should Know](https://lawsssscat.github.io/docs/guide/some-tips-jekyll-site-you-should-know.html)
 - [How To Add A Module In Site](https://lawsssscat.github.io/docs/guide/How-to-add-a-module-in-site.html)
 - [A Test Page 07 Kramdown](https://lawsssscat.github.io/docs/test/A-Test-Page-07-kramdown.html)
-- [How To Add A Category In Site](https://lawsssscat.github.io/docs/guide/How-to-add-a-category-in-site.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Teck Stack
