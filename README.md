@@ -37,7 +37,9 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 
 ## My Teck Stack
 
+<!-- icon search. see https://simpleicons.org/ -->
 <!-- badge search. see https://github.com/Ileriayo/markdown-badges -->
+<!-- badge search blog. see https://ileriayo.github.io/markdown-badges/ -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -70,6 +72,8 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Jekyll](https://img.shields.io/badge/jekyll-2B283A?style=for-the-badge&logo=jekyll&logoColor=red)
+![Liquid](https://img.shields.io/badge/liquid-008DE4?style=for-the-badge&logo=luquid&logoColor=white)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
