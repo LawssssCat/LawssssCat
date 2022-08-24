@@ -63,11 +63,14 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%23282C34?style=for-the-badge&logo=nuxtdotjs)
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+[![antV](https://img.shields.io/badge/antV-logo?style=for-the-badge&logo=v&logoColor=white)](https://antv.gitee.io/)
 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
