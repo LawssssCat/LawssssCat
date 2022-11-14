@@ -39,7 +39,7 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 -->
 <!-- BLOG-POST-LIST:END -->
 
-## My Teck Stack
+## My Teck Stack (in learning)
 
 <!-- icon search. see https://simpleicons.org/ -->
 <!-- badge search. see https://github.com/Ileriayo/markdown-badges -->
