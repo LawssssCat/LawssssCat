@@ -84,33 +84,4 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-## My GitHub Stats
 
-<p align='center'>
-<a href="https://www.github.com/lawsssscat" target="_blank" rel="noreferrer">
-<table width="100%">
-  <tr>
-    <td >
-      <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api?username=lawsssscat&show_icons=true&hide=&count_private=true&title_color=33ffed&text_color=ffffff&icon_color=33ffed&bg_color=1c1917&hide_border=false&show_icons=true" alt="GitHub stats" />
-    </td>
-    <td rowspan='2'>
-      <img align="center" width='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsssscat&layout=!compact&title_color=33ffed&text_color=ffffff&icon_color=33ffed&langs_count=8&bg_color=1c1917&hide=TSQL,Markdown&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=lawsssscat&stroke=ffffff&background=1c1917&ring=33ffed&fire=red&currStreakNum=ffffff&currStreakLabel=33ffed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=" />
-    </td>
-  </tr>
-  <!-- <tr>
-    <td colspan='2'>
-      <img align="center" width='100%' src="https://activity-graph.herokuapp.com/graph?username=lawsssscat&bg_color=1c1917&color=ffffff&line=33ffed&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph&hide_border=false" alt="GitHub Commits Graph" />
-    </td>
-  </tr> -->
-</table>
-</a>
-</p>
-
-<p align='center' >
-<img src="https://github-profile-trophy.vercel.app/?username=lawsssscat" alt="lawsssscat" width='100%' /></a >
-</p>
