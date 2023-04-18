@@ -10,6 +10,10 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 <!-- badge search. see https://github.com/Ileriayo/markdown-badges -->
 <!-- badge search blog. see https://ileriayo.github.io/markdown-badges/ -->
 
+<table width="100%">
+<tr valign="top">
+<td colspan="2">
+
 **Front-end**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,9 +28,16 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsssscat&layout=!compact&title_color=33ffed&text_color=ffffff&icon_color=33ffed&langs_count=8&bg_color=1c1917&hide=TSQL,Markdown&hide_border=false" />
+<img src='https://komarev.com/ghpvc/?username=LawssssCat&style=flat-square'>
 
-<hr>
+</td>
+<td>
 
-<img align='right' style='padding-left:10px;' src='https://komarev.com/ghpvc/?username=LawssssCat&style=flat-square'>
-</h1>
+**Stats**
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawsssscat&layout=!compact&langs_count=10&hide=TSQL,Markdown&hide_border=true&hide_title=true&disable_animations=true" />
+
+</td>
+</tr>
+
+</table>
