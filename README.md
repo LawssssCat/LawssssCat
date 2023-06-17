@@ -26,10 +26,6 @@ see https://github.com/simple-icons/simple-icons#cdn-usage -->
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-<hr>
-
-<img src='https://komarev.com/ghpvc/?username=LawssssCat&style=flat-square'>
-
 </td>
 <td>
 
